@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Diamond Ring",
+      "image": "p1.png",
+      "price": "$1200"
+    },
+    {
+      "id": 2,
+      "name": "Gold Necklace",
+      "image": "p2.png",
+      "price": "$850"
+    },
+    {
+      "id": 3,
+      "name": "Silver Earrings",
+      "image": "p3.png",
+      "price": "$150"
+    },
+    {
+      "id": 4,
+      "name": "Pearl Bracelet",
+      "image": "p4.png",
+      "price": "$400"
+    },
+    {
+      "id": 5,
+      "name": "Platinum Pendant",
+      "image": "p5.png",
+      "price": "$950"
+    },
+    {
+      "id": 6,
+      "name": "Ruby Studs",
+      "image": "p6.png",
+      "price": "$300"
+    },
+    {
+      "id": 7,
+      "name": "Emerald Brooch",
+      "image": "p7.png",
+      "price": "$700"
+    },
+    {
+      "id": 8,
+      "name": "Gold Bangle",
+      "image": "p8.png",
+      "price": "$500"
+    },
+    {
+      "id": 9,
+      "name": "Sapphire Ring",
+      "image": "p9.png",
+      "price": "$1100"
+    }
+  ]
+  

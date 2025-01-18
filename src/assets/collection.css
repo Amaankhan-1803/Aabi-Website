@@ -1,0 +1,31 @@
+h2.text-center{
+    font-size: 40px;
+    color: black;
+    font-weight: 400;
+}
+
+.card{
+    border-radius: 30px;
+    overflow: hidden;
+    border: 1px solid #efc004;
+    margin-bottom: 20px;
+}
+
+.btn{
+    font-size: 25px;
+}
+
+.btn:hover{
+    color: #efc004;
+    transition: 0.3s;
+}
+
+.btn:active{
+    outline: none;
+  }
+  
+
+.card-title{
+    font-size: 20px;
+    letter-spacing: 1px;
+}

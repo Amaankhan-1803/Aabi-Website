@@ -1,0 +1,28 @@
+.logo{
+  background-image: url(../imgs/web_bg.jpeg);
+  border: 2px solid #efc004;
+  padding: 15px;
+  border-radius: 20px;
+  position: absolute;
+  z-index: 9999;
+  left: 7%;
+}
+
+
+.logo-text{
+    color: #efc004;
+    font-weight: 600;
+    font-size: 35px;
+    font-family: "Dancing Script", serif;
+    text-decoration: none;
+    padding-left: 250px;
+  }
+  
+  .logo-text-arbi{
+    color: #efc004;
+    font-weight: 600;
+    font-size: 35px;
+    font-family: 'Ara Hamah AlFidaa', sans-serif;
+    text-decoration: none;
+    direction: rtl;
+  }

@@ -1,0 +1,51 @@
+body{
+  background-image: url(./imgs/web_bg.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid{
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.carousel_slider{
+  border-top: 5px solid #efc004;
+}
+
+.collection{
+  background-color: #fffbe9;
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+  font-family: 'Al Qalam Quran Majeed';
+}
+
+.instaposts {
+  background-color: #ffff;
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+  font-family: 'Al Qalam Quran Majeed';
+}
+
+.aboutus{
+  background-color: #fffbe9;
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+  font-family: 'Al Qalam Quran Majeed';
+}
+
+.social{
+  background-color: #212121 !important;
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+  font-family: 'Al Qalam Quran Majeed';
+}
+
+.footer{
+  color: white;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  font-family: 'Al Qalam Quran Majeed';
+}

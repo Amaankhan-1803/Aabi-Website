@@ -1,0 +1,54 @@
+.container{
+    padding: 0 !important;
+    max-width: 90%;
+}
+
+
+.head{
+    font-size: 30px;
+}
+
+.abt-texts{
+    font-size: 18px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+.contact-list{
+    list-style: none;
+    padding-left: 0;
+
+}
+
+.contact-list li{
+    padding-bottom: 15px;
+}
+
+.contact-list .contact-item{
+    color: white;
+    font-size: 18px;
+    transition: 0.3s;
+    text-decoration: none;
+}
+
+.contact-list .contact-item:hover{
+    color: #efc004;
+    
+}
+
+.social-list {
+    list-style: none;
+    padding-left: 5px;
+    padding-top: 15px;
+}
+
+.social-list .social-item{
+    background-color: #efc004;
+    color: white;
+    font-size: 22px;
+    transition: 0.3s;
+    text-decoration: none;
+    padding: 14px;
+    border-radius: 10px;
+}
+
