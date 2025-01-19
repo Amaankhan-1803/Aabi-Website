@@ -1,0 +1,35 @@
+@media (max-width:768px){
+    .row{
+        padding-top: 50px;
+        padding-bottom: 30px;
+     }
+     
+     h2.text-center{
+         font-size: 40px;
+         color: black;
+         font-weight: 400;
+     }
+     
+     .abt-txt{
+         padding-left: 0px;
+     }
+     
+     .about-img{
+         border-radius:37px ;
+     }
+     
+     
+     .abt-text{
+        padding-top: 10px;
+        padding-left: 5px;
+        padding-right: 5px;
+        font-size: 22px;
+        line-height: 2.5;
+        direction: rtl;
+     }
+     
+     .para-1{
+        padding-bottom: 0;
+        margin-bottom: 0;
+     }
+}

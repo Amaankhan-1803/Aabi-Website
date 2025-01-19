@@ -1,16 +1,17 @@
 import React, {useState} from 'react'
 import '../assets/collection.css'
+import '../assets/mobcollection.css'
 import products from '../assets/products.json'
 
-import p1 from "../imgs/p1.png";
-import p2 from "../imgs/p2.png";
-import p3 from "../imgs/p3.png";
-import p4 from "../imgs/p4.png";
-import p5 from "../imgs/p5.png";
-import p6 from "../imgs/p6.png";
-import p7 from "../imgs/p7.png";
-import p8 from "../imgs/p8.png";
-import p9 from "../imgs/p9.png";
+import p1 from "/public/imgs/p1.png";
+import p2 from "/public/imgs/p2.png";
+import p3 from "/public/imgs/p3.png";
+import p4 from "/public/imgs/p4.png";
+import p5 from "/public/imgs/p5.png";
+import p6 from "/public/imgs/p6.png";
+import p7 from "/public/imgs/p7.png";
+import p8 from "/public/imgs/p8.png";
+import p9 from "/public/imgs/p9.png";
 
 const images = {
   "p1.png": p1,
@@ -41,7 +42,7 @@ const Collection = () => {
     <div>
         <h2 className="text-center">Our Collection</h2>
 
-        <div className="container py-5">
+        <div className="container py-md-5">
         <div className="row">
         {products.slice(0, visibleProducts).map((product) => (
           <div className="col-md-4 mb-4" key={product.id}>
@@ -59,7 +60,7 @@ const Collection = () => {
           </div>
         ))}
       </div>
-       <div className="text-center mt-4">
+       <div className="text-center mt-md-4">
         <button
           className="btn"
           onClick={handleViewMore}

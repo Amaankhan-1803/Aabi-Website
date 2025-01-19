@@ -1,6 +1,7 @@
 import React from 'react'
 import '../assets/aboutus.css'
-import owner from '../imgs/owner.png'
+import '../assets/mobaboutus.css'
+import owner from '/public/imgs/owner.png'
 
 const Aboutus = () => {
   return (
@@ -15,10 +16,8 @@ const Aboutus = () => {
             </div>
             <div className="col-md-6 abt-txt">
                 <div className="abt-text">
-                    <p>بدأت شركة ابو نضال العلوي بداية متواضعة في عام 1985 والتي كانت بمثابة بداية رحلة امتدت لأكثر من عقدين من الزمن و بفضل الله تستمر حتى يومنا هذا. 
-                        <br />
-                        <br />
-                    واليوم، أصبحت العلامة التجارية واحدة من العلامات التجارية الرائدة في مجال المجوهرات والأزياء في سلطنة عُمان.</p>
+                    <p className='para-1'>بدأت شركة ابو نضال العلوي بداية متواضعة في عام 1985 والتي كانت بمثابة بداية رحلة امتدت لأكثر من عقدين من الزمن و بفضل الله تستمر حتى يومنا هذا</p>
+                    <p className='para-2'>واليوم، أصبحت العلامة التجارية واحدة من العلامات التجارية الرائدة في مجال المجوهرات والأزياء في سلطنة عُمان.</p>
                 </div>
             </div>
         </div>

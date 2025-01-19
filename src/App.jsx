@@ -12,7 +12,11 @@ function App() {
 
   return (
     <>
-     <Navbar/>
+    
+   <div className="navbars">
+   <Navbar/>
+   </div>
+     
      <div className="container-fluid carousel_slider">
       <Slider/>
      </div>

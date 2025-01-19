@@ -23,3 +23,7 @@ h2.text-center{
     line-height: 2.5;
     direction: rtl;
 }
+
+.para-1{
+    padding-bottom: 20px;
+}

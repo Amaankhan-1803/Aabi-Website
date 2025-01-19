@@ -1,0 +1,42 @@
+@media (max-width:768px){
+    h2.text-center{
+        font-size: 30px !important;
+        color: black;
+        font-weight: 400;
+    }
+
+    .row{
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+    
+    .card{
+        border-radius: 30px;
+        overflow: hidden;
+        border: 1px solid #efc004;
+        margin-bottom: 10px;
+    }
+    
+    .btn{
+        font-size: 18px !important;
+    }
+    
+    .btn:hover{
+        color: #efc004;
+        transition: 0.3s;
+    }
+    
+    .btn:active{
+        outline: none;
+      }
+      
+    
+    .card-title{
+        font-size: 18px;
+        letter-spacing: 1px;
+    }
+
+    .card-text{
+        font-size: 18px;
+    }
+}

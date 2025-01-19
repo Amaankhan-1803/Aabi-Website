@@ -1,5 +1,13 @@
+.navbar{
+  background-image: url(/public/imgs/web_bg.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 9999;
+  width: 100%;
+}
+
 .logo{
-  background-image: url(../imgs/web_bg.jpeg);
+  background-image: url(/public/imgs/web_bg.jpeg);
   border: 2px solid #efc004;
   padding: 15px;
   border-radius: 20px;

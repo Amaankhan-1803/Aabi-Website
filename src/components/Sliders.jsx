@@ -1,9 +1,10 @@
 import React from 'react';
 import '../assets/slider.css'
-import Slide1 from '../imgs/store1.jpg'
-import Slide2 from '../imgs/store2.jpg'
-import Slide3 from '../imgs/store3.jpg'
-import Slide4 from '../imgs/store4.jpg'
+import '../assets/mobslider.css'
+import Slide1 from '/imgs/store1.jpg'
+import Slide2 from '/imgs/store2.jpg'
+import Slide3 from '/imgs/store3.jpg'
+import Slide4 from '/imgs/store4.jpg'
 
 const Slider = () => {
   return (
@@ -16,19 +17,19 @@ const Slider = () => {
       <div className="carousel-inner">
         {/* Slide 1 */}
         <div className="carousel-item active">
-          <img src={Slide1} className="slider-img d-block w-100" alt="Slide 1" />
+          <img src={Slide1} className="slider-img img-fluid d-block w-100" alt="Slide 1" />
         </div>
         {/* Slide 2 */}
         <div className="carousel-item">
-          <img src={Slide2} className="slider-img d-block w-100" alt="Slide 2" />
+          <img src={Slide2} className="slider-img  img-fluid d-block w-100" alt="Slide 2" />
         </div>
         {/* Slide 3 */}
         <div className="carousel-item">
-          <img src={Slide3} className="slider-img d-block w-100" alt="Slide 3" />
+          <img src={Slide3} className="slider-img img-fluid d-block w-100" alt="Slide 3" />
         </div>
         {/* Slide 4 */}
         <div className="carousel-item">
-          <img src={Slide4} className="slider-img d-block w-100" alt="Slide 4" />
+          <img src={Slide4} className="slider-img img-fluid d-block w-100" alt="Slide 4" />
         </div>
       </div>
 

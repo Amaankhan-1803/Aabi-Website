@@ -1,0 +1,47 @@
+@media (max-width:768px){
+   
+    .navbar{
+        width: 100%;
+        background-image: url('/imgs/web_bg.jpeg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        z-index: 1000;
+        padding: 10px 20px;
+      }
+
+      .container-fluid{
+        justify-content: center !important;
+      }
+
+      .logo{
+        background-image: url(/public/imgs/web_bg.jpeg);
+        border: 2px solid #efc004;
+        padding: 8px;
+        border-radius: 20px;
+        position: absolute;
+        z-index: 9999;
+        left: 1%;
+        width: 15%;
+        top: 31px;
+      }
+      
+      
+      .logo-text{
+          color: #efc004;
+          font-weight: 600;
+          font-size: 14px;
+          font-family: "Dancing Script", serif;
+          text-decoration: none;
+          padding-left: 10px;
+          padding-right: 35px;
+        }
+        
+        .logo-text-arbi{
+          color: #efc004;
+          font-weight: 600;
+          font-size: 14px;
+          font-family: 'Ara Hamah AlFidaa', sans-serif;
+          text-decoration: none;
+          direction: rtl;
+        }
+}

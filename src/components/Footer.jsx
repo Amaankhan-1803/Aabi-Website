@@ -1,5 +1,6 @@
 import React from 'react'
 import '../assets/footer.css'
+import '../assets/mobfooter.css'
 const Footer = () => {
   return (
     <div className='container'>
@@ -14,7 +15,7 @@ const Footer = () => {
               Over 2 decades and continue to this day.  
             </p>
         </div>
-        <div className="col-md-4 abtus ps-5">
+        <div className="col-md-4 abtus ps-md-5">
             <h5 className="head">
                Contact
             </h5>
@@ -24,7 +25,7 @@ const Footer = () => {
               <li><a href="" className='contact-item'><i class="bi bi-envelope pe-2"></i> sales@abunidhaloman.com</a></li>
             </ul>
         </div>
-        <div className="col-md-4 abtus ps-5">
+        <div className="col-md-4 abtus ps-md-5">
             <h5 className="head">
                Connect With Us
             </h5>

@@ -1,11 +1,12 @@
 import React from 'react'
-import logo from '../imgs/logo.png'
+import logo from '/public/imgs/logo.png'
 import '../assets/navbar.css'
+import '../assets/navmobile.css'
 
 const Navbar = () => {
   return (
     <div>
-      <nav className='navbar px-5 pt-4'>
+      <nav className='navbar px-md-5 pt-md-4 fixed-top'>
         <div className="container-fluid">
             <div className="logos">
             <a href="" className="navbar-brand">
