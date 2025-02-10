@@ -12,26 +12,26 @@ function App() {
 
   return (
     <>
-    
+
    <div className="navbars">
    <Navbar/>
    </div>
-     
+
      <div className="container-fluid carousel_slider">
       <Slider/>
      </div>
-     <div className="container-fluid collection">
-      <Collection/>
-     </div>
+     {/*<div className="container-fluid collection">*/}
+     {/* <Collection/>*/}
+     {/*</div>*/}
      <div className="container-fluid instaposts">
       <InstaPost/>
      </div>
      <div className="container-fluid aboutus">
       <Aboutus/>
      </div>
-     <div className="container-fluid social">
-      <Social/>
-     </div>
+     {/*<div className="container-fluid social">*/}
+     {/* <Social/>*/}
+     {/*</div>*/}
      <div className="container-fluid footer">
       <Footer/>
      </div>

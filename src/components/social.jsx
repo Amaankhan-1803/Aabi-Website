@@ -1,6 +1,6 @@
 import React from 'react'
-import insta from '/public/imgs/insta.png'
-import snap from '/public/imgs/snap.png'
+import insta from '/imgs/insta.png'
+import snap from '/imgs/snap.png'
 import '../assets/social.css'
 import '../assets/mobsocial.css'
 

@@ -1,7 +1,7 @@
 import React from 'react'
 import '../assets/aboutus.css'
 import '../assets/mobaboutus.css'
-import owner from '/public/imgs/owner.png'
+import owner from '/imgs/owner.png'
 
 const Aboutus = () => {
   return (

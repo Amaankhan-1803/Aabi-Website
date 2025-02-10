@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from '/public/imgs/logo.png'
+import logo from '/imgs/logo.png'
 import '../assets/navbar.css'
 import '../assets/navmobile.css'
 
@@ -18,7 +18,7 @@ const Navbar = () => {
             </div>
             <div className="brand-text ">
                 <a href="" className="logo-text-arbi">
-                    مجوهرات أبو نضال العلوي 
+                    مجوهرات أبو نضال العلوي
                 </a>
             </div>
         </div>

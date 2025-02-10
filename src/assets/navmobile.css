@@ -1,5 +1,5 @@
 @media (max-width:768px){
-   
+
     .navbar{
         width: 100%;
         background-image: url('/imgs/web_bg.jpeg');
@@ -14,7 +14,7 @@
       }
 
       .logo{
-        background-image: url(/public/imgs/web_bg.jpeg);
+        background-image: url(/imgs/web_bg.jpeg);
         border: 2px solid #efc004;
         padding: 8px;
         border-radius: 20px;
@@ -24,8 +24,8 @@
         width: 15%;
         top: 31px;
       }
-      
-      
+
+
       .logo-text{
           color: #efc004;
           font-weight: 600;
@@ -35,7 +35,7 @@
           padding-left: 10px;
           padding-right: 35px;
         }
-        
+
         .logo-text-arbi{
           color: #efc004;
           font-weight: 600;
