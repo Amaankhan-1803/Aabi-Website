@@ -12,7 +12,7 @@ const Footer = () => {
             <p className="text-justify abt-texts">
               ABU NIDHAL JEWELLERY made a humble beginning in
               1985 that marked the start of a journey, which spans
-              Over 2 decades and continue to this day.  
+              Over 2 decades and continue to this day.
             </p>
         </div>
         <div className="col-md-4 abtus ps-md-5">
@@ -23,6 +23,7 @@ const Footer = () => {
               <li><a href="" className='contact-item'><i class="bi bi-telephone pe-2"></i> +968-99719361</a></li>
               <li><a href="" className='contact-item'><i class="bi bi-whatsapp pe-2"></i> +968-79955998</a></li>
               <li><a href="" className='contact-item'><i class="bi bi-envelope pe-2"></i> sales@abunidhaloman.com</a></li>
+              <li><a href="" className='contact-item'><i class="bi bi-geo-alt pe-2"></i> 289H+33G, Jalan Bani Buali</a></li>
             </ul>
         </div>
         <div className="col-md-4 abtus ps-md-5">
@@ -31,8 +32,8 @@ const Footer = () => {
             </h5>
             <ul className='social-list d-flex align-items-center gap-4'>
               <li><a href="https://www.instagram.com/abu_nidhal_jewellry1?igsh=MXA5MXdhYW94amZpNg==" className='social-item'><i class="bi bi-instagram "></i></a></li>
-              <li><a href="" className='social-item'><i class="bi bi-snapchat "></i></a></li>
-              <li><a href="" className='social-item'><i class="bi bi-geo-alt "></i></a></li>
+              <li><a href="https://www.snapchat.com/add/abunidhal1?sender_web_id=c8696c6b-61ea-4500-9f85-d0bf914457b8" className='social-item'><i class="bi bi-snapchat "></i></a></li>
+              <li><a href="https://maps.app.goo.gl/mB5R542T1Cqseoh5A?g_st=aw" className='social-item'><i class="bi bi-geo-alt "></i></a></li>
             </ul>
         </div>
       </div>
