@@ -40,7 +40,7 @@ const Collection = () => {
 
   return (
     <div>
-        <h2 className="text-center">Our Collection</h2>
+        <h2 className="text-center">مختارتنا</h2>
 
         <div className="container py-md-5">
         <div className="row">

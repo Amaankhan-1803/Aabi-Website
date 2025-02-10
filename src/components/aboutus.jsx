@@ -6,7 +6,7 @@ import owner from '/imgs/owner.png'
 const Aboutus = () => {
   return (
     <div>
-      <h2 className="text-center">Our Journey</h2>
+      <h2 className="text-center">نبذه عنا</h2>
       <div className="container">
         <div className="row">
             <div className="col-md-6">
